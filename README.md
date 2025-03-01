@@ -1,5 +1,5 @@
 # hh_aidoc
-AI Doctor
+AI Doctor Qbox Compatible 
 
 # Description :
 
