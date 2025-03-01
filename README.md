@@ -20,7 +20,9 @@ This script is basically for to be used in the server when there are no ems /doc
 - It will automatically adapt to your framework whether ESX/QB basically its a put and run script!
 - This script is uploaded on GitHub so you guys can request pull requests so feel free to add some required and 
    useful changes.
-- Feel free to do whatever you like with this script just don't edit and resell lol! 
+- Feel free to do whatever you like with this script just don't edit and resell lol!
+
+Requirements : [ox_compat](https://github.com/zf-labo/ox_compat)
 
 Forum : https://forum.cfx.re/t/qb-esx-hh-aid-doctor-ai-doctor-release-free/4768466
 
