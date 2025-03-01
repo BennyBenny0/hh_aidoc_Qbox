@@ -2,7 +2,9 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'HHFW AI Doc [QB]'
+author 'TEAM Y'
+
+description 'AI NPC DOCTOR FOR QBOX'
 
 version '0.1.0'
 
