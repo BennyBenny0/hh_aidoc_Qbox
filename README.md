@@ -23,6 +23,7 @@ This script is basically for to be used in the server when there are no ems /doc
 - Feel free to do whatever you like with this script just don't edit and resell lol!
 
 Requirements : [ox_compat](https://github.com/zf-labo/ox_compat)
+             : [ox_lib](https://github.com/overextended/ox_lib)
 
 Forum : https://forum.cfx.re/t/qb-esx-hh-aid-doctor-ai-doctor-release-free/4768466
 
